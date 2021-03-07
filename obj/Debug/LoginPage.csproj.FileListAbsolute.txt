@@ -1,0 +1,9 @@
+C:\Users\ARJINDER.SINGH\source\repos\LoginPage\bin\Debug\LoginPage.exe.config
+C:\Users\ARJINDER.SINGH\source\repos\LoginPage\bin\Debug\LoginPage.exe
+C:\Users\ARJINDER.SINGH\source\repos\LoginPage\bin\Debug\LoginPage.pdb
+C:\Users\ARJINDER.SINGH\source\repos\LoginPage\obj\Debug\LoginPage.csprojAssemblyReference.cache
+C:\Users\ARJINDER.SINGH\source\repos\LoginPage\obj\Debug\LoginPage.Form1.resources
+C:\Users\ARJINDER.SINGH\source\repos\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+C:\Users\ARJINDER.SINGH\source\repos\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.cache
+C:\Users\ARJINDER.SINGH\source\repos\LoginPage\obj\Debug\LoginPage.exe
+C:\Users\ARJINDER.SINGH\source\repos\LoginPage\obj\Debug\LoginPage.pdb
